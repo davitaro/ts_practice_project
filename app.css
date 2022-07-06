@@ -93,6 +93,13 @@
     margin: 1rem;
     background-color: white;
   }
+
+  .projects li:hover {
+    cursor: grab;
+    background-color: pink
+  }
+
+  
   
   .projects li h2 {
     color: #ff0062;
