@@ -1,0 +1,25 @@
+{
+  "name": "ts_practice_project",
+  "version": "1.0.0",
+  "description": "ts practice project based on udemy course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davitaro/ts_practice_project.git"
+  },
+  "keywords": [
+    "ts"
+  ],
+  "author": "Davita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davitaro/ts_practice_project/issues"
+  },
+  "homepage": "https://github.com/davitaro/ts_practice_project#readme",
+  "dependencies": {
+    "ts-node": "^10.8.2"
+  }
+}
